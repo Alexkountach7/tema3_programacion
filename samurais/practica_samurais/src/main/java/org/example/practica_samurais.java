@@ -37,7 +37,7 @@ public class practica_samurais {
                     suma1 += numero1;
                     equiponumero_1[i] = numero1;
                 }catch (NumberFormatException error){
-                    System.out.println("error introduce solo numeros validos");
+                    System.out.println("error introduce valores correctos");
                     repetir1 = true;
                     break;
                 }
